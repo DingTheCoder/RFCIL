@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efb6ac30-31ac-4235-a396-249b95767fe0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dDSrnRQFSFVyM0gb2fRCfKMjAn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.python ablation_l2.py --gpu 0 --tsboard --method fedavg --dataset cifar.executor": "Run",
+    "Python.python ablation_l2.py --gpu 0 --tsboard --method fedavg --dataset mnist.executor": "Run",
+    "Python.python ablation_l2.py --gpu 0 --tsboard --method fedprox --dataset cifar.executor": "Run",
+    "Python.python ablation_l2.py --gpu 0 --tsboard --method fedrs --dataset cifar.executor": "Run",
+    "Python.python ablation_l2.py --gpu 1 --tsboard --method fedavg --dataset cifar.executor": "Run",
+    "Python.python ablation_l2.py --gpu 1 --tsboard --method fedavg --dataset mnist.executor": "Run",
+    "Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedavg --dataset cifar.executor": "Run",
+    "Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedprox --dataset cifar.executor": "Run",
+    "Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedrs --dataset cifar.executor": "Run",
+    "Python.python moon.py --gpu 0 --tsboard --method moon --dataset cifar.executor": "Run",
+    "Python.python moon_ci.py --gpu 0 --tsboard --method moon --dataset cifar.executor": "Run",
+    "Python.python moon_try.py --gpu 0 --tsboard --method moon --dataset cifar.executor": "Run",
+    "Python.python try.py --gpu 0 --tsboard --method fedavg --dataset cifar --cyclic --amp 0.01 --freq 5.executor": "Run",
+    "Python.python try.py --gpu 0 --tsboard --method fedavg --dataset cifar.executor": "Run",
+    "Python.python try.py --gpu 0 --tsboard --method fedprox --dataset cifar.executor": "Run",
+    "Python.python try.py --gpu 0 --tsboard --method fedrs --dataset cifar.executor": "Run",
+    "Python.python try_ci.py --gpu 0 --tsboard --method fedavg --dataset cifar.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/experiments/samsung_4/ablation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\experiments\experiment_4\ablation" />
+      <recent name="D:\experiment\ablation_grad" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\experiment\ablation_grad" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedavg --dataset cifar">
+    <configuration name="python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedavg --dataset cifar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="111" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="ablation_l2_accuracy.py" />
+      <option name="PARAMETERS" value="--gpu 0 --tsboard --method fedavg --dataset cifar" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedprox --dataset cifar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="111" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="ablation_l2_accuracy.py" />
+      <option name="PARAMETERS" value="--gpu 0 --tsboard --method fedprox --dataset cifar" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedrs --dataset cifar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="111" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="ablation_l2_accuracy.py" />
+      <option name="PARAMETERS" value="--gpu 0 --tsboard --method fedrs --dataset cifar" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python ablation_l2.py --gpu 0 --tsboard --method fedavg --dataset cifar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="111" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="ablation_l2.py" />
+      <option name="PARAMETERS" value="--gpu 0 --tsboard --method fedavg --dataset cifar" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python ablation_l2.py --gpu 0 --tsboard --method fedprox --dataset cifar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="111" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="ablation_l2.py" />
+      <option name="PARAMETERS" value="--gpu 0 --tsboard --method fedprox --dataset cifar" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedavg --dataset cifar" />
+        <item itemvalue="Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedrs --dataset cifar" />
+        <item itemvalue="Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedprox --dataset cifar" />
+        <item itemvalue="Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedprox --dataset cifar" />
+        <item itemvalue="Python.python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedprox --dataset cifar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efb6ac30-31ac-4235-a396-249b95767fe0" name="Changes" comment="" />
+      <created>1709541357108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709541357108</updated>
+      <workItem from="1714487813267" duration="1121000" />
+      <workItem from="1714533177438" duration="14813000" />
+      <workItem from="1714570814912" duration="908000" />
+      <workItem from="1714571744623" duration="5665000" />
+      <workItem from="1714615761218" duration="42255000" />
+      <workItem from="1714702473243" duration="19369000" />
+      <workItem from="1714725568393" duration="3518000" />
+      <workItem from="1714735699326" duration="24231000" />
+      <workItem from="1714819132435" duration="6098000" />
+      <workItem from="1714915891797" duration="16951000" />
+      <workItem from="1715004310650" duration="446000" />
+      <workItem from="1715050023599" duration="6560000" />
+      <workItem from="1715059954865" duration="2243000" />
+      <workItem from="1715062846200" duration="3411000" />
+      <workItem from="1715066584565" duration="1568000" />
+      <workItem from="1715220193228" duration="17000" />
+      <workItem from="1715220227772" duration="13000" />
+      <workItem from="1715246232185" duration="21267000" />
+      <workItem from="1715305455732" duration="34000" />
+      <workItem from="1715306375254" duration="1075000" />
+      <workItem from="1715307456631" duration="27406000" />
+      <workItem from="1715390590329" duration="16629000" />
+      <workItem from="1715432890531" duration="6979000" />
+      <workItem from="1715480634864" duration="29558000" />
+      <workItem from="1715518850150" duration="1993000" />
+      <workItem from="1715648856491" duration="9122000" />
+      <workItem from="1715665632272" duration="11364000" />
+      <workItem from="1715677799670" duration="9235000" />
+      <workItem from="1715753536558" duration="3159000" />
+      <workItem from="1715758159938" duration="8462000" />
+      <workItem from="1715820621982" duration="9216000" />
+      <workItem from="1720690684388" duration="23000" />
+      <workItem from="1720690708131" duration="847000" />
+      <workItem from="1721291820368" duration="1832000" />
+      <workItem from="1721442191428" duration="6530000" />
+      <workItem from="1721450825962" duration="19000" />
+      <workItem from="1722349816713" duration="2800000" />
+      <workItem from="1722437815462" duration="671000" />
+      <workItem from="1722583061967" duration="8132000" />
+      <workItem from="1722592523448" duration="6762000" />
+      <workItem from="1722754362517" duration="7699000" />
+      <workItem from="1722830952280" duration="22767000" />
+      <workItem from="1724736855386" duration="12104000" />
+      <workItem from="1724812772960" duration="13126000" />
+      <workItem from="1725264875616" duration="1099000" />
+      <workItem from="1725343050812" duration="566000" />
+      <workItem from="1725345705068" duration="779000" />
+      <workItem from="1725362205306" duration="5000" />
+      <workItem from="1725417821612" duration="822000" />
+      <workItem from="1725634421887" duration="105000" />
+      <workItem from="1729173096933" duration="21000" />
+      <workItem from="1729757194392" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ablation_grad$python_ablation_l2_py___gpu_0___tsboard___method_fedavg___dataset_mnist.coverage" NAME="python ablation_l2.py --gpu 0 --tsboard --method fedavg --dataset mnist Coverage Results" MODIFIED="1715324472093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation_l2_py$python_ablation_l2_py___gpu_0___tsboard___method_fedrs___dataset_cifar.coverage" NAME="python ablation_l2.py --gpu 0 --tsboard --method fedrs --dataset cifar Coverage Results" MODIFIED="1724815719494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation$python_ablation_l2_py___gpu_1___tsboard___method_fedavg___dataset_mnist.coverage" NAME="python ablation_l2.py --gpu 1 --tsboard --method fedavg --dataset mnist Coverage Results" MODIFIED="1714997930266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation_l2_py$python_ablation_l2_accuracy_py___gpu_0___tsboard___method_fedprox___dataset_cifar.coverage" NAME="python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedprox --dataset cifar Coverage Results" MODIFIED="1724826108815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation_l2_py$python_ablation_l2_py___gpu_0___tsboard___method_fedavg___dataset_cifar.coverage" NAME="python ablation_l2.py --gpu 0 --tsboard --method fedavg --dataset cifar Coverage Results" MODIFIED="1724816923616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation$python_try_ci_py___gpu_0___tsboard___method_fedavg___dataset_cifar.coverage" NAME="python try_ci.py --gpu 0 --tsboard --method fedavg --dataset cifar Coverage Results" MODIFIED="1714717498321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation_l2_py$python_ablation_l2_py___gpu_1___tsboard___method_fedavg___dataset_cifar.coverage" NAME="python ablation_l2.py --gpu 1 --tsboard --method fedavg --dataset cifar Coverage Results" MODIFIED="1722592629102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation$python_ablation_l2_py___gpu_1___tsboard___method_fedavg___dataset_cifar.coverage" NAME="python ablation_l2.py --gpu 1 --tsboard --method fedavg --dataset cifar Coverage Results" MODIFIED="1714998331265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation_grad$python_ablation_l2_py___gpu_0___tsboard___method_fedavg___dataset_cifar.coverage" NAME="python ablation_l2.py --gpu 0 --tsboard --method fedavg --dataset cifar Coverage Results" MODIFIED="1715822043551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation$python_ablation_l2_py___gpu_0___tsboard___method_fedavg___dataset_mnist.coverage" NAME="python ablation_l2.py --gpu 0 --tsboard --method fedavg --dataset mnist Coverage Results" MODIFIED="1715057263259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation_l2_py$python_ablation_l2_py___gpu_0___tsboard___method_fedprox___dataset_cifar.coverage" NAME="python ablation_l2.py --gpu 0 --tsboard --method fedprox --dataset cifar Coverage Results" MODIFIED="1724816104183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation_l2_py$python_ablation_l2_accuracy_py___gpu_0___tsboard___method_fedrs___dataset_cifar.coverage" NAME="python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedrs --dataset cifar Coverage Results" MODIFIED="1725417937432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation$python_ablation_l2_py___gpu_0___tsboard___method_fedavg___dataset_cifar.coverage" NAME="python ablation_l2.py --gpu 0 --tsboard --method fedavg --dataset cifar Coverage Results" MODIFIED="1721449903218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ablation_l2_py$python_ablation_l2_accuracy_py___gpu_0___tsboard___method_fedavg___dataset_cifar.coverage" NAME="python ablation_l2_accuracy.py --gpu 0 --tsboard --method fedavg --dataset cifar Coverage Results" MODIFIED="1725418009423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
